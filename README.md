@@ -1,2 +1,4 @@
 # Recognition
-Labs for Pattern Recognition IASA course
+My labs for Pattern Recognition IASA course
+
+🦝
